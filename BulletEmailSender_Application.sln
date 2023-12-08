@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulletEmailSender_Application", "BulletEmailSender_Application\BulletEmailSender_Application.csproj", "{4A7A45B2-BD9A-4E3D-B948-E3EA40C6E09C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7A45B2-BD9A-4E3D-B948-E3EA40C6E09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7A45B2-BD9A-4E3D-B948-E3EA40C6E09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7A45B2-BD9A-4E3D-B948-E3EA40C6E09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7A45B2-BD9A-4E3D-B948-E3EA40C6E09C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F3B3FD-97BF-4447-A16B-4315C84C7C55}
+	EndGlobalSection
+EndGlobal

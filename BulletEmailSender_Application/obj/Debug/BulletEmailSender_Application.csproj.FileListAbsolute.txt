@@ -1,0 +1,15 @@
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\bin\Debug\BulletEmailSender_Application.exe.config
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\bin\Debug\BulletEmailSender_Application.exe
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\bin\Debug\BulletEmailSender_Application.pdb
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\obj\Debug\BulletEmailSender_Application.csprojAssemblyReference.cache
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\obj\Debug\BulletEmailSender_Application.Form1.resources
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\obj\Debug\BulletEmailSender_Application.Properties.Resources.resources
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\obj\Debug\BulletEmailSender_Application.csproj.GenerateResource.cache
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\obj\Debug\BulletEmailSender_Application.csproj.CopyComplete
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\obj\Debug\BulletEmailSender_Application.exe
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\obj\Debug\BulletEmailSender_Application.pdb
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\IT Extension 01\source\repos\BulletEmailSender_Application\BulletEmailSender_Application\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
